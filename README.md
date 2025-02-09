@@ -1,3 +1,3 @@
 # PowerBI-Dashboard
 
-AmazonsalesDashboard.jpg
+[AmazonsalesDashboard.jpg](https://github.com/abhilashtalluri/PowerBI-Dashboard.git)
