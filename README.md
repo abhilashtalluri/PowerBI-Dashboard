@@ -1,3 +1,3 @@
 # PowerBI-Dashboard
 
-[AmazonsalesDashboard.jpg](https://github.com/abhilashtalluri/PowerBI-Dashboard.jpg)
+[Amazon Sales Analytics(https://github.com/abhilashtalluri/PowerBI-Dashboard/blob/main/AmazonsalesDashboard.jpg)
